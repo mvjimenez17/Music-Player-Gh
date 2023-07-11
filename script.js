@@ -42,7 +42,7 @@ const music_list = [
     },
     {
         img : 'images/KORN_stereoigor.jpg',
-        name : 'Rather Be',
+        name : 'all Want a Single',
         artist : 'Korn',
         music : 'music/Korn - all Want a Single.mp3'
     }
